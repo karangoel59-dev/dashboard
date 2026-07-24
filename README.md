@@ -5,7 +5,7 @@ A high-performance, real-time developer dashboard application built with **Svelt
 ## 🚀 Live Demo
 
 The application is deployed and fully operational at:  
-👉 **[https://karangoel59-dev-production.up.railway.app/logs](https://karangoel59-dev-production.up.railway.app/logs)**
+👉 **[https://activity-dashboard-production.up.railway.app/calendar](https://activity-dashboard-production.up.railway.app/calendar)**
 
 ---
 
